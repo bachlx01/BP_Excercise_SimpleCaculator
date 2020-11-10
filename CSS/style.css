@@ -1,0 +1,25 @@
+.container{
+    width: 500px;
+    border: 1px solid;
+}
+.header{
+    margin: 5px 0;
+    text-align: center;
+}
+input{
+    width: 93%;
+    height: 40px;
+    text-align: right;
+    font-size: 40px;
+}
+
+.content{
+    text-align: center;
+}
+.item{
+    width: 110px;
+    height: 40px;
+    margin: 3px;
+    font-size: 20px;
+
+}
